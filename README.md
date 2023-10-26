@@ -1,3 +1,5 @@
+![image](https://github.com/EntityBossBlood/Banners-BedSheet/assets/148834782/ef517511-99f5-43be-95e0-4ff80aa3d6cb)
+
 ### 🎨 Customize your bedsheets with any banner design! Make your bed stand out!
 It's very easy to put banners on beds with this datapack installed!
 
@@ -13,3 +15,5 @@ writing /function bannerbedsheets:removeall (you wont get your banners back thou
 If you already removed the pack then run this command, but you won't get your banners back:
 
 /execute at @e run kill @e[​type=minecraft:item_display,tag=bedsheet]
+
+![image](https://github.com/EntityBossBlood/Banners-BedSheet/assets/148834782/5c7eff2d-63d2-4fdb-b0e0-207f1dabbcb1)
